@@ -73,3 +73,6 @@ Data modeling & DAX for calculations
 📌 Author
 
 Developed by Ranaprathap
+
+License
+This project for educational and analytical purpose
