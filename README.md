@@ -75,4 +75,5 @@ Data modeling & DAX for calculations
 Developed by Ranaprathap
 
 License
+
 This project for educational and analytical purpose
