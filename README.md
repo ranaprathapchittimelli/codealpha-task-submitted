@@ -52,9 +52,8 @@ Features:
 Student performance by category.
 
 Subject-wise score analysis.
-Dashboard Previews
 
-Here are snapshots of some dashboards:
+Dashboard Previews
 
 Financial Dashboard
 
