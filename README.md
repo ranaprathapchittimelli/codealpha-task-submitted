@@ -72,12 +72,4 @@ Data modeling & DAX for calculations
 
 📌 Author
 
-Your Name
-
-📧 Contact: [your email]
-
-🌐 GitHub: [your GitHub profile link]
-
-Academic achievement insights.
-
-File: educational performance pb.pbix
+Developed by Ranaprathap
